@@ -1,0 +1,13 @@
+{
+  "name": "ltgt-to-interval",
+  "version": "0.0.0",
+  "description": "Convert a levelup style ltgt object to an interval string",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": "juliangruber/ltgt-to-interval",
+  "devDependencies": {
+    "tape": "^4.2.0"
+  },
+  "license": "MIT"
+}
